@@ -1,4 +1,4 @@
-module sploitfun.com/idesk
+module github.com/sploitfun/idesk
 
 go 1.15
 
